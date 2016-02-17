@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="loading_images">
+        <item>@drawable/france</item>
+        <item>@drawable/germany</item>
+        <item>@drawable/spain</item>
+        <item>@drawable/portugal</item>
+        <item>@drawable/norway</item>
+        <item>@drawable/belgium</item>
+        <item>@drawable/bulgaria</item>
+        <item>@drawable/denmark</item>
+        <item>@drawable/italy</item>
+        <item>@drawable/sweden</item>
+        <item>@drawable/greece</item>
+        <item>@drawable/ireland</item>
+        <item>@drawable/romania</item>
+        <item>@drawable/turkey</item>
+        <item>@drawable/iceland</item>
+    </array>
+</resources>
